@@ -5,8 +5,6 @@
  */
 package jktv21oopproba;
 import java.util.Arrays;
-import myclasses.App;
-import myclasses.Author;
 import myclasses.Book;
 
 /**
